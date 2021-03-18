@@ -214,9 +214,9 @@ alias ark="$HOME/core-bridgechain/packages/core/bin/run"
 echo 'alias infinityhedge="$HOME/core-bridgechain/packages/core/bin/run"' >> ~/.bashrc
 
 rm -rf "$HOME/core-bridgechain"
-git clone "https://github.com/Plusid/core-master" "$HOME/core-bridgechain" || FAILED="Y"
+git clone "https://github.com/InfinitySoftwareLTD/core-master-EDGE" "$HOME/core-bridgechain" || FAILED="Y"
 if [ "$FAILED" == "Y" ]; then
-    echo "Failed to fetch core repo with origin 'https://github.com/Plusid/core-master'"
+    echo "Failed to fetch core repo with origin 'https://github.com/InfinitySoftwareLTD/core-master-EDGE'"
 
     exit 1
 fi
