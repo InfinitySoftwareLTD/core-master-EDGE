@@ -41,7 +41,7 @@
       "staticFees": {
         "ipfs": 50000,
         "multiPayment": 100000,
-        "delegateResignation": 1000000,
+        "delegateResignation": 100,
         "businessRegistration": 5000000,
         "businessUpdate": 500,
         "businessResignation": 100,
