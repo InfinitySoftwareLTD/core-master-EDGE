@@ -53,5 +53,14 @@
         "htlcRefund": 0
       }
     }
+  },
+  {
+    "height": 68000,
+    "fees": {
+      "staticFees": {
+        "transfer": 10,
+        "multiPayment": 10000
+      }
+    }
   }
 ]
