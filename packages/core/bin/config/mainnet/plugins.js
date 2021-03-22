@@ -26,7 +26,7 @@ module.exports = {
             minFeePool: 1,
             minFeeBroadcast: 1,
             addonBytes: {
-                transfer: 1000,
+                transfer: 10,
                 secondSignature: 1000,
                 delegateRegistration: 1000000,
                 vote: 100000,
@@ -34,7 +34,7 @@ module.exports = {
                 ipfs: 250,
                 multiPayment: 100000,
                 delegateResignation: 100,
-                htlcLock: 100000,
+                htlcLock: 1000,
                 htlcClaim: 0,
                 htlcRefund: 0,
                 businessRegistration: 5000000,
