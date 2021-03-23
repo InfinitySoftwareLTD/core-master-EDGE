@@ -51,11 +51,11 @@
         "htlcLock": 100000,
         "htlcClaim": 0,
         "htlcRefund": 0
-      }
+       }
     }
   },
   {
-    "height": 68000,
+    "height": 90000,
     "fees": {
       "staticFees": {
         "transfer": 10,
