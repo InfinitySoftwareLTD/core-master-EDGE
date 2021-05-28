@@ -58,7 +58,8 @@
     "height": 1500000,
     "fees": {
       "staticFees": {
-        "transfer": 10,
+        "transfer": 100,
+        "htlcLock": 10000,
         "multiPayment": 10000
       }
     }
