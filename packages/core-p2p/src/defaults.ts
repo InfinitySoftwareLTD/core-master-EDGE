@@ -12,7 +12,7 @@ export const defaults = {
     /**
      * The number of peers we expect to be available to start a relay
      */
-    minimumNetworkReach: 20,
+    minimumNetworkReach: 13,
     /**
      * The timeout to verify a peer. [milliseconds]
      */
