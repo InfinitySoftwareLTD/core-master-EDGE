@@ -27,7 +27,7 @@ export const defaults = {
             ipfs: 250,
             multiPayment: 500,
             delegateResignation: 100,
-            htlcLock: 100,
+            htlcLock: 1000,
             htlcClaim: 0,
             htlcRefund: 0,
         },
