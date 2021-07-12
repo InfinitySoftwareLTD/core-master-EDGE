@@ -63,5 +63,13 @@
         "multiPayment": 10000
       }
     }
+  },
+  {
+    "height": 2000000,
+    "fees": {
+      "staticFees": {
+        "htlcLock": 1000
+      }
+    }
   }
 ]
