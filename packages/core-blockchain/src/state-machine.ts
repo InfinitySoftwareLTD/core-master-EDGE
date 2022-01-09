@@ -115,7 +115,7 @@ blockchainMachine.actionMap = (blockchain: Blockchain) => ({
     },
 
     exitApp() {
-        app.forceExit("Failed to startup blockchain. Exiting ARK Core!");
+        app.forceExit("Failed to startup blockchain. Exiting Hedge Core!");
     },
 
     async init() {
