@@ -66,7 +66,7 @@ $ ark config:publish --network=mainnet
         this.addTask("Prepare directories", async () => {
             if (fs.existsSync(coreConfigDest)) {
                 this.error(
-                    `${coreConfigDest} already exists. Please run "ark config:reset" if you wish to reset your configuration.`,
+                    `${coreConfigDest} already exists. Please run "infinityhedge config:reset" if you wish to reset your configuration.`,
                 );
             }
 
