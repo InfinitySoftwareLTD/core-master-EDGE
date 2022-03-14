@@ -10,7 +10,7 @@ export class PublishCommand extends BaseCommand {
 
     public static examples: string[] = [
         `Publish the configuration for the mainnet network
-$ infinityhedge config:publish --network=mainnet
+$ ark config:publish --network=mainnet
 `,
     ];
 
