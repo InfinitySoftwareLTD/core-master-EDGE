@@ -82,9 +82,9 @@ Would you like to configure the database? [y/N]:
 Choice "y" and follow the exemple below:
 
 ```
-Enter the database username: infinityhedge
-Enter the database password: password
-Enter the database name: edge_mainnet
+Enter the database username: {username}
+Enter the database password: {password}
+Enter the database name:     {database name}
 ```
 
 This database will store the blockchain infinity.
